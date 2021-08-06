@@ -7,6 +7,6 @@ This project provides the official implementation of FAT in ["Future-Aware Diver
 NDCG
 ![image](demo_img/ndcg.png)
 RECALL
-![image](https://github.com/YujieLu10/FATrec/edit/main/demo_img/recall.png)
+![image](demo_img/recall.png)
 HIT RATE
-![image](https://github.com/YujieLu10/FATrec/edit/main/demo_img/hitrate.png)
+![image](demo_img/hitrate.png)
