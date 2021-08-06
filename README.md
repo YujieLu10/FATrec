@@ -5,7 +5,7 @@ This project provides the official implementation of FAT in ["Future-Aware Diver
 
 # Demo Comparison (FAT VS COMI-SA)
 NDCG
-![image](https://github.com/YujieLu10/FATrec/edit/main/demo_img/ndcg.png)
+![image](demo_img/ndcg.png)
 RECALL
 ![image](https://github.com/YujieLu10/FATrec/edit/main/demo_img/recall.png)
 HIT RATE
